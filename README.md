@@ -7,7 +7,7 @@ My First Repository
 **Stranger Things** is a science fiction and horror series created by *The Duffer Brothers*.  
 It is set in the 1980s in the fictional town of Hawkins, Indiana. The story follows a group of kids who uncover supernatural events, government experiments, and a mysterious girl with telekinetic powers.
 
-### 🧠 Main Characters
+###  Main Characters
 - **Eleven (Millie Bobby Brown)** – a girl with supernatural powers.
 - **Mike Wheeler** – Eleven’s friend and the leader of the group.
 - **Dustin Henderson** – known for his humor and intelligence.
